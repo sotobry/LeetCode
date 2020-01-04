@@ -4,7 +4,6 @@
 */
 (function () {
 
+  //Runtime:      %
+  //Memory Usage: %
 })()
-
-//Runtime:      %
-//Memory Usage: %
