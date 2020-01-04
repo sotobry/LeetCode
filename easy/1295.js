@@ -33,7 +33,7 @@
   }
   const nums = [12, 345, 2, 6, 7896];
   // console.log(nums);
-  findNumbers(nums);
+  // findNumbers(nums);
 })();
 
 //Runtime: 11.10%
